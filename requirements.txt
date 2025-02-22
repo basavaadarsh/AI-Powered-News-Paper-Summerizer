@@ -1,0 +1,7 @@
+streamlit
+requests
+newspaper3k
+langdetect
+pdfkit
+lxml
+lxml_html_clean
