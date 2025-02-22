@@ -120,7 +120,7 @@ See [LICENSE](LICENSE) for more details.
 If you have any questions or feedback, feel free to reach out:
 
 📧 **Email:** [basavaadarsh4@gmail.com](mailto:basavaadarsh4@gmail.com)  
-🔗 **LinkedIn:** [Adarsh](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nelavalli-basava-adarsh-3598b916a/))
+🔗 **LinkedIn:** [Adarsh](https://www.linkedin.com/in/nelavalli-basava-adarsh-3598b916a/)
 
 ⭐ **If you like this project, consider giving it a star on GitHub!** ⭐
 
